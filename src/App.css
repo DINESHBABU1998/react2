@@ -36,3 +36,80 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* *{
+  margin: 0;
+  padding: 0;
+}
+.container{
+  background-image: url(https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg);
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+  
+
+}
+label{
+  line-height: 60px;
+  font-size: large;
+  font-weight: bold;
+}
+input{
+  border-radius: 5px;
+  outline: none;
+  outline-offset: none;
+  border: none;
+  font-size: x-large;
+  width: 200px;
+  background-color: rgba(164, 173, 112, 0.999);
+
+}
+label[for = "department"]{
+  position: relative;
+  right: 20px;
+}
+#department{
+  position: relative;
+  right: 20px;
+}
+button{
+  border: 20px solid transparent;
+  font-size: small;
+  font-weight: bold;
+  border-radius: 10px;
+  width: 200px;
+  position: relative;
+  top: 25px;
+  cursor: pointer;
+  background-color: rgba(187, 89, 50, 0.999);;
+
+}
+button:hover{
+  background-color: rgba(79, 131, 145, 0.999);;
+  
+
+}
+.EmploData{
+  border: 2px solid transparent;
+  border-radius: 10px;
+  width: 80%;
+  height: 40vh;
+  position: absolute;
+  bottom: -10%;
+  left: 10%;
+  background-color: rgb(128, 175, 114);
+  display: flex;
+  flex-wrap: wrap;
+
+}
+.data{
+  width: 400px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: rgb(32, 73, 59);
+  text-align: center;
+  padding-top:28px;
+  box-sizing: border-box;
+  margin: 20px;
+} */
